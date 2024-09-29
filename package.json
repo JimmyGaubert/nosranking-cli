@@ -1,0 +1,19 @@
+{
+  "name": "@earlam/nosranking-cli",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/nosranking.js"
+  },
+  "keywords": ["nostale", "nosranking", "legit"],
+  "author": "Earlam",
+  "license": "MIT",
+  "description": "CLI tool for fetching Nostale rankings using @earlam/nosranking-module",
+  "dependencies": {
+    "@earlam/nosranking-module": "^0.0.9",
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+    "nosranking": "./bin/nosranking.js"
+  }
+}
