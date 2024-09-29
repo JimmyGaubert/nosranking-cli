@@ -1,6 +1,6 @@
 # @earlam/nosranking-cli
 
-![NPM Downloads](https://img.shields.io/npm/d18m/%40earlam%2Fnosranking-module) ![NPM Version](https://img.shields.io/npm/v/%40earlam%2Fnosranking-module)
+![NPM Downloads](https://img.shields.io/npm/d18m/%40earlam%2Fnosranking-cli) ![NPM Version](https://img.shields.io/npm/v/%40earlam%2Fnosranking-cli)
 
 ![NosRanking Logo](https://www.aht.li/3769246/nr-192.png)
 
