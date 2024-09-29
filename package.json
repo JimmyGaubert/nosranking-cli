@@ -15,5 +15,14 @@
   },
   "bin": {
     "nosranking": "./bin/nosranking.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimmyGaubert/nosranking-cli.git"
+    
+  },
+  "bugs": {
+    "url": "https://github.com/JimmyGaubert/nosranking-cli/issues"
+  },
+  "homepage": "https://github.com/JimmyGaubert/nosranking-cli#readme"
 }
